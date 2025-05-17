@@ -1,6 +1,0 @@
-PyPDF2
-fitz
-pymupdf
-tqdm
-pytesseract
-pdf2image
