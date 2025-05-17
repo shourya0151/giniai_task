@@ -16,4 +16,4 @@ __pycache__/
 # Optional: Ignore OS-specific files
 .DS_Store
 Thumbs.db
-.requirements1.txt
+requirements1.txt
