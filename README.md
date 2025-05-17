@@ -1,6 +1,6 @@
 # PDF Tampering Detection Tool
 
-This project analyzes PDF files to detect signs of tampering using metadata inspection, whiteout overlay detection, and OCR-based text comparison.
+This project detects potential tampering in PDF documents by analyzing metadata, detecting whiteout overlays, and comparing the machine-readable text layer with OCR-extracted text from images of the PDF pages.
 
 ## Sample Tampered PDF Example And Untampered PDF Example
 
@@ -17,11 +17,6 @@ This project analyzes PDF files to detect signs of tampering using metadata insp
   </table>
 </div>
 
-# PDF Tampering Detection Tool
-
-This project detects potential tampering in PDF documents by analyzing metadata, detecting whiteout overlays, and comparing the machine-readable text layer with OCR-extracted text from images of the PDF pages.
-
----
 
 ## 🔧 Project Setup
 
