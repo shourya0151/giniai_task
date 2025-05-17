@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore documentation folder
+documentation/
+
+# Optional: Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Optional: Ignore logs and temporary files
+*.log
+*.tmp
+
+# Optional: Ignore OS-specific files
+.DS_Store
+Thumbs.db
